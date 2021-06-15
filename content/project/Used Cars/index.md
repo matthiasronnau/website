@@ -1,6 +1,7 @@
 ---
 title: Used Car Listings Analysis
 summary: Analyzing used car listings from Craigslist to predict the price of a used car.
+featured: true
 tags:
 - Irvine
 - Python
