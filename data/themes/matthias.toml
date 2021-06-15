@@ -12,7 +12,7 @@ menu_primary = "#fff"
 menu_text = "#000000"
 menu_text_active = "#ec4d37"
 menu_title = "#000000"
-menu_text_hover = "#ec4d37"
+#menu_text_hover = "#ec4d37"
 
 # Links
 link = "#000000"
