@@ -13,7 +13,9 @@ headless: true
 weight: 65
 
 title: Projects
-subtitle: ''
+subtitle: "These are some of the interesting projects that I have worked on while a student at the University of California, Berkeley and the University of California, Irvine. They encompass some of the various statistical and machine learning techniques that I have learned.
+
+The GitHub Repository for each project is linked on the project page, as well as links to the data that I used (if applicable). If you have any questions, don't hesitate to [reach out to me](mailto:matthias.ronnau@uci.edu)!""
 
 content:
   # Page type to display. E.g. project.
