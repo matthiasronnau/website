@@ -1,0 +1,19 @@
+# Theme metadata
+name = "Matthias"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#000000"
+
+# Menu
+menu_primary = "#000000"
+menu_text = "#000000"
+menu_text_active = "#ec4d37"
+menu_title = "#000000"
+menu_hover = "#ec4d37"
+
+# Home sections
+home_section_odd = "rgb(255, 255, 255)"
+home_section_even = "rgb(247, 247, 247)"
