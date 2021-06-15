@@ -30,10 +30,22 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
+  - name: Berkeley
+    tag: Berkeley
+  - name: Irvine
+    tag: Irvine
+  - name: R
+    tag: R
+  - name: Python
+    tag: Python
+  - name: Sampling
+    tag: Sampling
+  - name: Regression
+    tag: Regression
+  - name: Machine Learning
+    tag: Machine Learning
+  - name: Package
+    tag: Package
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
@@ -44,7 +56,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 2
+  view: 3
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
