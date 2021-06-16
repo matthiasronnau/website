@@ -1,5 +1,5 @@
 ---
-title: Survey Analysis
+title: National Drug Use Survey Analysis
 summary: Analyzing drug use among different segments of the population.
 featured: true
 tags:
@@ -17,7 +17,7 @@ image:
 
 links:
 - icon: github
-  icon_pack: fab
+  icon_pack: fas
   name: GitHub Repository
   url: https://github.com/matthiasronnau/Stat-152-Survey-Project
 - icon: database
