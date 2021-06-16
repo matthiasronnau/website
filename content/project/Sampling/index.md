@@ -17,11 +17,11 @@ image:
 
 links:
 - icon: github
-  icon_pack: fas
+  icon_pack: fab
   name: GitHub Repository
   url: https://github.com/matthiasronnau/Stat-152-Survey-Project
 - icon: database
-  icon_pack: fab
+  icon_pack: fas
   name: Data
   url: https://www.icpsr.umich.edu/web/ICPSR/studies/9833/summary?fbclid=IwAR30t8KImNd5QorUaLWMCtsQydUTweSdFoIJPyNR92hXwBHy9XKtiCnSg1Y
 url_code: ""
