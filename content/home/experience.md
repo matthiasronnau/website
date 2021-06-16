@@ -22,13 +22,13 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+  - title: Capstone Project Student Consultant
+    company: Blue Shield of California
+    company_url: https://www.blueshieldca.com/
+    company_logo: bsc
+    location: Irvine, California
+    date_start: '2021-01'
+    date_end: '2021-06'
     description: |2-
         Responsibilities include:
         
@@ -36,14 +36,14 @@ experience:
         * Modelling
         * Deploying
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: MSBA Program Ambassador
+    company: The University of California, Irvine Paul Merage School of Business
+    company_url: https://merage.uci.edu/programs/masters/master-science-business-analytics/index.html
+    company_logo: merage
+    location: Irvine, California
+    date_start: '2020-09'
+    date_end: ''
+    description: Represented the Master of Science in Business Analytics Program at the Paul Merage School of Business to potential new students via webinars and recruitment events.
 
 design:
   columns: '2'
