@@ -25,7 +25,7 @@ experience:
   - title: Capstone Project Student Consultant
     company: Blue Shield of California
     company_url: https://www.blueshieldca.com/
-    company_logo: bsc
+    company_logo: org-gc
     location: Irvine, California
     date_start: '2021-01'
     date_end: '2021-06'
@@ -39,7 +39,7 @@ experience:
   - title: MSBA Program Ambassador
     company: The University of California, Irvine Paul Merage School of Business
     company_url: https://merage.uci.edu/programs/masters/master-science-business-analytics/index.html
-    company_logo: merage
+    company_logo: org-x
     location: Irvine, California
     date_start: '2020-09'
     date_end: ''
