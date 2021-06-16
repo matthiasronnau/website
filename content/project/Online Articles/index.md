@@ -1,6 +1,6 @@
 ---
 title: Online News Popularity Analysis
-summary: Analyzing features from Mashable articles to determine what characteristics make online news articles popular
+summary: Analyzing features from Mashable articles to determine what characteristics make online news articles popular.
 featured: true
 tags:
 - Irvine
