@@ -41,7 +41,7 @@ experience:
     company_url: https://merage.uci.edu/programs/masters/master-science-business-analytics/index.html
     company_logo: merage
     location: Irvine, California
-    date_start: '2020-09'
+    date_start: '2020-09-01'
     date_end: ''
     description: Represented the Master of Science in Business Analytics Program at the Paul Merage School of Business to potential new students via webinars and recruitment events.
 
