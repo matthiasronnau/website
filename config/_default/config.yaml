@@ -56,8 +56,8 @@ markup:
     startLevel: 2
     endLevel: 3
 imaging:
-  resampleFilter: lanczos
-  quality: 10
+  resampleFilter: box
+  quality: 100
   anchor: smart
 timeout: 600000
 taxonomies:
