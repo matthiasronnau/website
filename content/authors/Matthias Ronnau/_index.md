@@ -12,4 +12,4 @@ Outside of studying and attending class, I primarily spend time with my friends,
 
 In addition to all of that, my father and I have been restoring our 1969 Ford Bronco. If I'm not in class or with Jenna, I'm most likely working on the Bronco. It has the original Ford 302, Wild Horses shorty headers, a 1" body lift and a 2.5" suspension lift. Last year we broke the original Dana 30 front axle while on the trail in Big Bear with So Cal Broncos, so we upgraded to a stronger Dana 44; an additional plus is that I now have front disk brakes! We just finished putting the original 3 on the tree transmission back in it, and we're really looking forward to wheeling this *mostly* stock Bronco.
 
-{{< gallery album="<about>" >}}
+
