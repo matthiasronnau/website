@@ -21,6 +21,10 @@ links:
   icon_pack: fab
   name: GitHub Repository
   url: https://github.com/matthiasronnau/BANA-212-Final-Project
+- icon: kaggle
+  icon_pack: fab
+  name: Dataset
+  url: https://www.kaggle.com/austinreese/craigslist-carstrucks-data
 url_code: ""
 url_pdf: ""
 url_slides: ""
