@@ -31,16 +31,7 @@ experience:
     date_end: ''
     description: Represented the Master of Science in Business Analytics Program at the Paul Merage School of Business to potential new students via webinars and recruitment events.
 
-  - title: Capstone Project Student Consultant
-    company: Blue Shield of California
-    company_url: https://www.blueshieldca.com/
-    company_logo: bsc
-    location: Irvine, California
-    date_start: '2021-01-01'
-    date_end: '2021-06-01'
-    description: Used medical claims data to analyze and identify avoidable emergency room visits, as these are the most costly type of visit to Blue Shield and its members.
-    
-    - title: Business Analyst Assistant
+ - title: Business Analyst Assistant
     company: Queen City Accounting and Technical Services
     company_url: https://www.linkedin.com/company/queen-city-accounting-and-technical-services
     company_logo: qcat
