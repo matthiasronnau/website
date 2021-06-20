@@ -43,10 +43,10 @@ experience:
     - title: Business Analyst Assistant
     company: Queen City Accounting and Technical Services
     company_url: https://www.linkedin.com/company/queen-city-accounting-and-technical-services
-    company_logo: QCAT
+    company_logo: qcat
     location: Seal Beach, California
     date_start: '2020-03-01'
-    date_end: '2020-08-01'
+    date_end: ''
     description: Developed budget risk models and dashboards using R and Excel to visualize the expected payment time of clients for a startup accounting consulting firm.
 
 design:
