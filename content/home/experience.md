@@ -42,7 +42,7 @@ experience:
     
     - title: Business Analyst Assistant
     company: Queen City Accounting and Technical Services
-    company_url: 
+    company_url: ''
     company_logo: QCAT-logo
     location: Seal Beach, California
     date_start: '2021-03-01'
