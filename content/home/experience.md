@@ -39,15 +39,6 @@ experience:
     date_start: '2021-01-01'
     date_end: '2021-06-01'
     description: Used medical claims data to analyze and identify avoidable emergency room visits, as these are the most costly type of visit to Blue Shield and its members.
-    
-    - title: Business Analyst Assistant
-    company: Queen City Accounting and Technical Services
-    company_url: ''
-    company_logo: QCAT-logo
-    location: Seal Beach, California
-    date_start: '2021-03-01'
-    date_end: ''
-    description: Developed budget risk models and dashboards using R and Excel to visualize the expected payment time of clients for a startup accounting consulting firm.
 
 design:
   columns: '2'
