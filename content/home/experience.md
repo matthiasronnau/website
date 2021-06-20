@@ -43,7 +43,7 @@ experience:
     - title: Business Analyst Assistant
     company: Queen City Accounting and Technical Services
     company_url: https://www.linkedin.com/company/queen-city-accounting-and-technical-services
-    company_logo: qcat
+    company_logo: merage
     location: Seal Beach, California
     date_start: '2020-03-01'
     date_end: ''
