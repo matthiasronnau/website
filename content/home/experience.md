@@ -46,7 +46,7 @@ experience:
     company_logo: QCAT
     location: Seal Beach, California
     date_start: '2020-03-01'
-    date_end: ''
+    date_end: '2020-08-01'
     description: Developed budget risk models and dashboards using R and Excel to visualize the expected payment time of clients for a startup accounting consulting firm.
 
 design:
