@@ -63,6 +63,6 @@ email: ""
 highlight_name: false
 ---
 
-Matthias Ronnau is a graduate student at the University of California, Irvine, studying Business Analytics. He is currently a Program Ambassador, where he represents the MSBA Program at events to potential admits. Prior to studying at UCI, he received a degree in Statistics from University of California, Berkeley. Outside of school, he enjoys spending time with his girlfriend, Jenna, and working on his 1969 Ford Bronco with his father.
+Matthias Ronnau is a recent graduate student of the University of California, Irvine, where he studied Business Analytics. During his time in the program, he served as a Program Ambassador, where he represented the MSBA Program at events to potential admits. Prior to studying at UCI, he received a degree in Statistics from University of California, Berkeley. Outside of school, he enjoys spending time with his girlfriend, Jenna, and working on his 1969 Ford Bronco with his father.
 
 {{< icon name="file-download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
